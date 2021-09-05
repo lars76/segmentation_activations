@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 export IMAGE_FAMILY="pytorch-latest-gpu"
 export ZONE="asia-east1-a"
 export INSTANCE_NAME="my-instance"
